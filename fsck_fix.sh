@@ -17,8 +17,6 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
 
-#  SIMPLE SCRIPT FOR FIX FSCK ERROR 4
-
 export BLUE='\033[1;94m'
 export RED='\e[0;31m'
 export NORMAL='\033[1;00m'
